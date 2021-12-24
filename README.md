@@ -1,2 +1,2 @@
 # logdemo
-wangjj first demo！
+wangjj second demo！
